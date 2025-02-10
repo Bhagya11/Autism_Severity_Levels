@@ -1,4 +1,4 @@
-# Autism_Subtype
+# Autism_severity Levels
 ### **Step-by-Step Process for Severity Level Calculation, Gray Matter Extraction, and Comparison**  
 
 This document outlines the **complete process** for calculating ASD severity levels, extracting gray matter intensity, and analyzing the relationship between gray matter and ASD severity.  
