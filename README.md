@@ -102,9 +102,11 @@ We use **ADOS_TOTAL scores** to classify subjects based on the DSM-5 severity cr
 ![image](https://github.com/user-attachments/assets/1e426f04-0ab0-406f-91cf-2776dca90f37)
 
 ✅ **Processed Dataset:**  
-- Saved as `NYU_ABIDE_with_Severity.csv` (includes DSM-5 severity levels).  
+- Saved as `NYU_ABIDE_with_Severity1.csv` (includes DSM-5 severity levels).  
 
 ✅ **Gray Matter Analysis Results:**  
 - **PNG images** of segmented gray matter saved for each subject.  
 - **Box plot saved** as `GM_Intensity_Comparison.png`.  
+
+✅ **Gray matter segmented png images**  
 
