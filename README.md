@@ -108,7 +108,3 @@ We use **ADOS_TOTAL scores** to classify subjects based on the DSM-5 severity cr
 - **PNG images** of segmented gray matter saved for each subject.  
 - **Box plot saved** as `GM_Intensity_Comparison.png`.  
 
-✅ **Statistical Results:**  
-- Kruskal-Wallis test results indicating significant differences in gray matter intensity based on ASD severity.  
-
--
